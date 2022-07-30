@@ -1,0 +1,13 @@
+1) list and tuple are store one or more object and the difference between list: use brackets , mutable and tuple : use parentheses , immutable
+
+
+2)
+Break: it is used in loop and terminate the loop when the condition is right
+Continue: it is used in loop and continue to next iteration when the condition right or not right
+Pass: it is used in loop and used to placeholder for future code
+
+3) self in python used to represent the instance of the class and can acess with attributes
+
+4)
+
+5)
